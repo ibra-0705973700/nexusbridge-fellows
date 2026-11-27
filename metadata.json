@@ -1,0 +1,6 @@
+{
+  "name": "NexusBridge Fellows",
+  "description": "Skills-first matching, mentorship tracking, and paid returnship marketplace connecting displaced talent with local experience and networks (PLP Hackathon Track 3 · SDGs 8, 10 & 17).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
